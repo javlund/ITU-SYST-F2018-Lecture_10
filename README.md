@@ -1,1 +1,3 @@
-# ITU-SYST-F2018-Lecture_10
+# ITU-SYST-F2018
+
+Eksempler til HTTP og API-kald.

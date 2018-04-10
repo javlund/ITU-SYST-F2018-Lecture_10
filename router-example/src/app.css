@@ -1,0 +1,10 @@
+li {
+  display: inline;
+  margin-left: 1rem;
+}
+
+div.container {
+  border: solid black 1px;
+  padding: 1rem;
+  margin: 3rem;
+}
